@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,300);
 .clearfix {
   *zoom: 1;
 }
@@ -293,7 +293,7 @@ body > section {
   color: #d9534f;
 }
 .midnight-blue {
-  background-color: #2c3e50;
+  background-color: #2c3d50;
 }
 .concrete {
   background-color: #95a5a6;
@@ -486,7 +486,7 @@ body > section {
   padding: 10px 0;
   font-weight: 700;
   font-size: 14px;
-  color: #2c3e50;
+  color: #0f7965;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -615,7 +615,7 @@ body > section {
   border-top: 0;
 }
 #pricing-table .plan.featured {
-  background-color: #2c3e50;
+  background-color: #0f7965;
 }
 #title h1 {
   margin: 0;
@@ -733,10 +733,10 @@ ul.tag-cloud li {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #2c3e50;
+  background-color: #0f7965;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
-  background-color: #2c3e50;
+  background-color: #0f7965;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
